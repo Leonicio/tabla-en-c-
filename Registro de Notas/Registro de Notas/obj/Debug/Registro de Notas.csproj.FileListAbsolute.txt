@@ -1,0 +1,27 @@
+c:\users\berna_000\documents\visual studio 2012\Projects\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.exe.config
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.exe
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.pdb
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.csprojResolveAssemblyReference.cache
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro_de_Notas.Form1.resources
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro_de_Notas.Properties.Resources.resources
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.csproj.GenerateResource.Cache
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.exe
+C:\Users\berna_000\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.pdb
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.exe.config
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.exe
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.pdb
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.exe
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.pdb
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.csprojResolveAssemblyReference.cache
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro_de_Notas.Form1.resources
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro_de_Notas.Properties.Resources.resources
+C:\Users\Bernard\Documents\Visual Studio 2012\Projects\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.csproj.GenerateResource.Cache
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.exe.config
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.exe
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\bin\Debug\Registro de Notas.pdb
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.csprojResolveAssemblyReference.cache
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\obj\Debug\Registro_de_Notas.Form1.resources
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\obj\Debug\Registro_de_Notas.Properties.Resources.resources
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.csproj.GenerateResource.Cache
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.exe
+C:\Users\leoni\Desktop\Registro de Notas\Registro de Notas\obj\Debug\Registro de Notas.pdb
